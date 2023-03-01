@@ -1,0 +1,15 @@
+/* !selectores de medida */
+
+/* ?unidades absolutas son medidas que no se modifican*/
+
+/* ?unidades relaticas se adaptan */
+body {
+    font-size: 20px;
+}
+
+div {
+    background: pink;
+    width: 50%;
+}
+
+

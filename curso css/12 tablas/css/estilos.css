@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+table td {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+table tr:hover {
+    background: green;
+}
+
+table td:hover {
+    background: black;
+    color: white;
+}

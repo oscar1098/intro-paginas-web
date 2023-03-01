@@ -1,0 +1,33 @@
+a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 20px;
+    background: pink;
+    color: black;
+    margin: 10px 20px;
+    display: inline-block;
+    box-shadow: 0px 5px 0px black;
+}
+
+a:link {
+    color: pink;
+}
+
+a:hover {
+    /* text-decoration: underline;
+    font-size: 20px;
+    background: black;
+    color: white; */
+    box-shadow: 0px 2px 0px black;
+}
+
+a:active {
+    /* background: pink; */
+    box-shadow: none;
+}
+
+a:visited {
+    color: red;
+}
+

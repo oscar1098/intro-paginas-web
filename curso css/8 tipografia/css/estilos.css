@@ -1,0 +1,17 @@
+.Encabezado {
+    text-align: center;
+}
+p {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-shadow: 1px 1px 1px black;
+}
+

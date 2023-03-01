@@ -1,0 +1,30 @@
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+.menu {
+    width: 100%;
+    background: pink;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: blueviolet;
+}
+
+.menu li a:hover {
+    background: wheat;
+}

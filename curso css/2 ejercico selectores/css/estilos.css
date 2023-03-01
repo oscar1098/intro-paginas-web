@@ -1,0 +1,28 @@
+/* !selectores */
+
+/* ?selector universal se le aplica a todo el conteido del sitio*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* ?selector de etiqueta se le aplica a todas las etiquetas seleccionadas*/
+/* *para agrgar las mismas caracteristica a mas etiquetas se separan por comas */
+h2,h4,h6 {
+    color: purple;
+}
+
+/* ?selectores de clase */
+.amarillo {
+    color: green;
+}
+
+/* ?selectores de id */
+/* *los selectores por id solo se pueden usar una vez */
+#letra {
+    font-size: 30px;
+}
+
+
+
+
